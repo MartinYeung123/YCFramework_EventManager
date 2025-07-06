@@ -17,7 +17,7 @@
 ```
 普通事件
 ```C#
-           void Start()
+        void Start()
         {
             // 示例：添加事件监听
             EventManager.Instance.AddListener("TestEvent", OnTestEvent);
