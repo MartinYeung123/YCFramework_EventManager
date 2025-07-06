@@ -1,0 +1,9 @@
+{
+  "name": "com.yeungclue.tools.dev",
+  "displayName": "YCFramework_EventManager",
+  "version": "1.0.0",
+  "description": "a UnityFramework EventManager Part",
+  "author": {
+    "name": "MartinYeung123"
+  }
+}
